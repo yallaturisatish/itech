@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to intial deployment stage1</h1>
+<h1>Welcome to intial deployment</h1>
 <h2>pool SCM</h2>
 </body>
 <body style="color:red;">
