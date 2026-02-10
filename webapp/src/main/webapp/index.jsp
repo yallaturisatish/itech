@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome to intial deployment</h1>
-<h2>pool SCM</h2>
+<h2>Personal Banking login</h2>
 </body>
 <body style="color:red;">
  <div class="container">
