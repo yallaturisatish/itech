@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome to Banking Services</h1>
-<h2>Personal Banking login page</h2>
+<h2>Corporate login</h2>
 </body>
 <body style="color:red;">
  <div class="container">
