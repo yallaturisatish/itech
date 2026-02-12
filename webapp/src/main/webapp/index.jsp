@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Banking Services</h1>
+<h1>Welcome to Banking Services with CICD process</h1>
 <h2>Corporate login</h2>
 </body>
 <body style="color:red;">
